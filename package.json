@@ -73,7 +73,8 @@
 		]
 	},
 	"dependencies": {
-		"boolean-parser": "^0.0.2",
+		"@lusc/truth-table": "^1.0.5",
+		"lodash": "^4.17.21",
 		"prop-types": "^15.6.1",
 		"react": "^16.8.4",
 		"react-canvas-draw": "^1.2.1",
